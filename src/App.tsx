@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import HardstyleDMXController from './components/HardstyleDMXController';
 import Stage3D from './components/Stage3D';
 import AdvancedSettings from './components/AdvancedSettings';
